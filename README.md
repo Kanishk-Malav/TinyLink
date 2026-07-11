@@ -337,7 +337,7 @@ See [FINAL_STATUS.md](./FINAL_STATUS.md) for detailed completion report.
 
 ---
 
-**Live Demo:** [Add your deployed URL here after deployment]
-**GitHub:** [Add your repo URL here]
+**Live Demo:** https://tiny-link-bzzb.onrender.com/
+**GitHub:** https://github.com/Kanishk-Malav/tiny-link.git
 **Documentation**: See [DEPLOYMENT.md](./DEPLOYMENT.md) for deployment instructions
 # TinyLink
